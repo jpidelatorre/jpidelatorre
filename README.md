@@ -19,11 +19,11 @@
 
 ### Answers on StackOverflow
 
-<!-- STACKOVERFLOW:START -->[Answer by JP de la Torre for Is there any Unicode equivalent for a grid of icons symbol?](https://stackoverflow.com/questions/22289123/is-there-any-unicode-equivalent-for-a-grid-of-icons-symbol/62055578#62055578)
-[Answer by JP de la Torre for Nest.js gracefully shutdown](https://stackoverflow.com/questions/61892684/nest-js-gracefully-shutdown/64428817#64428817)
-[Answer by JP de la Torre for Google Firestore - how to get document by multiple ids in one round trip?](https://stackoverflow.com/questions/46721517/google-firestore-how-to-get-document-by-multiple-ids-in-one-round-trip/50394935#50394935)
-[Answer by JP de la Torre for How to remove item from an array through index in React](https://stackoverflow.com/questions/55972862/how-to-remove-item-from-an-array-through-index-in-react/55973097#55973097)
-[Answer by JP de la Torre for Add the search bar of google or any other search engine in my website](https://stackoverflow.com/questions/51143562/add-the-search-bar-of-google-or-any-other-search-engine-in-my-website/51144671#51144671)
+<!-- STACKOVERFLOW:START -->- [Answer by JP de la Torre for Is there any Unicode equivalent for a grid of icons symbol?](https://stackoverflow.com/questions/22289123/is-there-any-unicode-equivalent-for-a-grid-of-icons-symbol/62055578#62055578)
+- [Answer by JP de la Torre for Nest.js gracefully shutdown](https://stackoverflow.com/questions/61892684/nest-js-gracefully-shutdown/64428817#64428817)
+- [Answer by JP de la Torre for Google Firestore - how to get document by multiple ids in one round trip?](https://stackoverflow.com/questions/46721517/google-firestore-how-to-get-document-by-multiple-ids-in-one-round-trip/50394935#50394935)
+- [Answer by JP de la Torre for How to remove item from an array through index in React](https://stackoverflow.com/questions/55972862/how-to-remove-item-from-an-array-through-index-in-react/55973097#55973097)
+- [Answer by JP de la Torre for Add the search bar of google or any other search engine in my website](https://stackoverflow.com/questions/51143562/add-the-search-bar-of-google-or-any-other-search-engine-in-my-website/51144671#51144671)
 <!-- STACKOVERFLOW:END -->
 
 <!-- 
