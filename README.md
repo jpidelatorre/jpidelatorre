@@ -5,26 +5,21 @@
 
 ### Selected Pens at [Codepen](https://codepen.io/jpidelatorre)
 
-<!-- CODEPEN:START -->
- [[Pure CSS] Battery charging animation [One element]](https://codepen.io/jpidelatorre/pen/xbKNGN) 
- ![](https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png) 
- 
+<!-- CODEPEN:START -->[[Pure CSS] Battery charging animation [One element]](https://codepen.io/jpidelatorre/pen/xbKNGN) 
 
- [[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp) 
- ![](https://codepen.io/jpidelatorre/pen/WEOJMp/image/large.png) 
- 
+![](https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png) 
+[[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp) 
 
- [CSS  Variables: Follow Mouse Position](https://codepen.io/jpidelatorre/pen/prEgQj) 
- ![](https://codepen.io/jpidelatorre/pen/prEgQj/image/large.png) 
- 
+![](https://codepen.io/jpidelatorre/pen/WEOJMp/image/large.png) 
+[CSS  Variables: Follow Mouse Position](https://codepen.io/jpidelatorre/pen/prEgQj) 
 
- [[Pure CSS] [CSS Battle] Clip-path example](https://codepen.io/jpidelatorre/pen/oNYYaYR) 
- ![](https://codepen.io/jpidelatorre/pen/oNYYaYR/image/large.png) 
- 
+![](https://codepen.io/jpidelatorre/pen/prEgQj/image/large.png) 
+[[Pure CSS] [CSS Battle] Clip-path example](https://codepen.io/jpidelatorre/pen/oNYYaYR) 
 
- [Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM) 
- ![](https://codepen.io/jpidelatorre/pen/wvdKaQM/image/large.png) 
- 
+![](https://codepen.io/jpidelatorre/pen/oNYYaYR/image/large.png) 
+[Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM) 
+
+![](https://codepen.io/jpidelatorre/pen/wvdKaQM/image/large.png) 
 <!-- CODEPEN:END -->
 
 ### Answers on StackOverflow
