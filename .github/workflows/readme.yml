@@ -16,8 +16,9 @@ jobs:
           date_format: "mmm d, yyyy"
           commit_message: "Update Codepen list"
           item_exec: |
-            post.description = post.description.replace(/^\s+/g, '');
-          template: "[$title]($url)$newline $description $newline"
+            post.image = post.description.match(/src="([^"]+)"/)[1] || '';
+            post.description = `![](${post.image})`;
+          template: "[$title]($url)$newline $image $newline"
           feed_list: "https://codepen.io/collection/OLyaME/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -25,5 +26,6 @@ jobs:
           disable_sort: true
           date_format: "mmm d, yyyy"
           commit_message: "Update StackOverflow list"
-          template: "[$title]($url)$newline"
+          template: "- [$title]($url)$newline"
+          item_exec: "console.log(post)"
           feed_list: "https://stackoverflow.com/feeds/user/1899195"
