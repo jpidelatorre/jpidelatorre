@@ -27,6 +27,5 @@ jobs:
           disable_sort: true
           date_format: "mmm d, yyyy"
           commit_message: "Update StackOverflow list"
-          template: "- [$title]($url)$newline"
-          item_exec: "console.log(post)"
+          template: "$newline- [$title]($url)"
           feed_list: "https://stackoverflow.com/feeds/user/1899195"
