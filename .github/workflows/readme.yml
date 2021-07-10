@@ -18,7 +18,7 @@ jobs:
           item_exec: |
             post.image = post.description.match(/src="([^"]+)"/)[1] || '';
             post.description = `![](${post.image})`;
-          template: "[$title]($url)$newline $image $newline"
+          template: "[$title]($url)$newline $description $newline"
           feed_list: "https://codepen.io/collection/OLyaME/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
