@@ -1,0 +1,27 @@
+name: Update README file
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day
+  workflow_dispatch:
+jobs:
+  update-codepen:
+    name: Update this repo's README with pens from Codepen
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "CODEPEN"
+          disable_sort: true
+          date_format: "mmm d, yyyy"
+          commit_message: "Update Codepen list"
+          template: "[$title]($url)$newline_$date_$newline$description"
+          feed_list: "https://codepen.io/collection/OLyaME/feed"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          disable_sort: true
+          date_format: "mmm d, yyyy"
+          commit_message: "Update StackOverflow list"
+          template: "[$title]($url)$newline_$date_$newline$description"
+          feed_list: "https://stackoverflow.com/feeds/user/1899195"
