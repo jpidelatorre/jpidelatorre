@@ -15,7 +15,7 @@ jobs:
           disable_sort: true
           date_format: "mmm d, yyyy"
           commit_message: "Update Codepen list"
-          template: "[$title]($url)$newline_$date_$newline$description"
+          template: "[$title]($url) _ $date _ $newline $description"
           feed_list: "https://codepen.io/collection/OLyaME/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -23,5 +23,5 @@ jobs:
           disable_sort: true
           date_format: "mmm d, yyyy"
           commit_message: "Update StackOverflow list"
-          template: "[$title]($url)$newline_$date_$newline$description"
+          template: "[$title]($url) _ $date _ $newline $description"
           feed_list: "https://stackoverflow.com/feeds/user/1899195"
