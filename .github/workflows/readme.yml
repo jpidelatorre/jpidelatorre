@@ -18,8 +18,8 @@ jobs:
           item_exec: |
             post.description = post.description.match(/src="([^"]+)"/)[1] || '';
           template: |
-            [$title]($url) $newline
-            ![]($description) $newline
+            $newline - [$title]($url)
+            $newline   ![]($description) $newline $newline
           feed_list: "https://codepen.io/collection/OLyaME/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
