@@ -1,16 +1,22 @@
-### Hi there 👋
+### JP de la Torre
 
-<!--
-**jpidelatorre/jpidelatorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack JavaScript/TypeScript Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Pens at [Codepen](https://codepen.io/jpidelatorre)
+
+<!-- CODEPEN:START -->
+<!-- CODEPEN:END -->
+
+### Answers on StackOverflow
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+<!-- 
+TODO
+- Create own workflow actions
+  - RSS with extra properties
+  - Formatted technologies icons
+  - ASCII banners
+ -->
