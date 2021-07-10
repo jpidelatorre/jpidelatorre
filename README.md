@@ -5,11 +5,8 @@
 
 ### Selected Pens at [Codepen](https://codepen.io/jpidelatorre)
 
-<!-- CODEPEN:START -->[[Pure CSS] [One element] Battery charging animation](https://codepen.io/jpidelatorre/pen/xbKNGN)
-_$date_
-
-    
-    <p>
+<!-- CODEPEN:START -->[undefined](https://codepen.io/jpidelatorre/pen/xbKNGN)
+ <p>
       <a href="https://codepen.io/jpidelatorre/pen/xbKNGN"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png"></a>
     </p>
     <p>
@@ -24,11 +21,9 @@ _$date_
 Forked from [DonSinDRom](http://codepen.io/DonSinDRom/)&#39;s Pen [Charging animation](http://codepen.io/DonSinDRom/pen/KIcsF/).
     </p>
     
-  [[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp)
-_$date_
-
-    
-    <p>
+   
+[undefined](https://codepen.io/jpidelatorre/pen/WEOJMp)
+ <p>
       <a href="https://codepen.io/jpidelatorre/pen/WEOJMp"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/WEOJMp/image/large.png"></a>
     </p>
     <p>
@@ -40,11 +35,9 @@ _$date_
       Pure CSS Animated Pacman taking advantage of the implicit structure of an empty HTML file, pseudo elements, and animations.
     </p>
     
-  [CSS  Variables: Follow Mouse Position](https://codepen.io/jpidelatorre/pen/prEgQj)
-_$date_
-
-    
-    <p>
+   
+[undefined](https://codepen.io/jpidelatorre/pen/prEgQj)
+ <p>
       <a href="https://codepen.io/jpidelatorre/pen/prEgQj"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/prEgQj/image/large.png"></a>
     </p>
     <p>
@@ -56,11 +49,9 @@ _$date_
       
     </p>
     
-  [[Pure CSS] [CSS Battle] Clip-path example](https://codepen.io/jpidelatorre/pen/oNYYaYR)
-_$date_
-
-    
-    <p>
+   
+[undefined](https://codepen.io/jpidelatorre/pen/oNYYaYR)
+ <p>
       <a href="https://codepen.io/jpidelatorre/pen/oNYYaYR"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/oNYYaYR/image/large.png"></a>
     </p>
     <p>
@@ -72,11 +63,9 @@ _$date_
       
     </p>
     
-  [Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM)
-_$date_
-
-    
-    <p>
+   
+[undefined](https://codepen.io/jpidelatorre/pen/wvdKaQM)
+ <p>
       <a href="https://codepen.io/jpidelatorre/pen/wvdKaQM"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/wvdKaQM/image/large.png"></a>
     </p>
     <p>
@@ -88,7 +77,8 @@ _$date_
       
     </p>
     
-  <!-- CODEPEN:END -->
+   
+<!-- CODEPEN:END -->
 
 ### Answers on StackOverflow
 
