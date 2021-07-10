@@ -5,7 +5,7 @@
 
 ### Selected Pens at [Codepen](https://codepen.io/jpidelatorre)
 
-<!-- CODEPEN:START -->[undefined](https://codepen.io/jpidelatorre/pen/xbKNGN)
+<!-- CODEPEN:START -->[[Pure CSS] [One element] Battery charging animation](https://codepen.io/jpidelatorre/pen/xbKNGN)
  <p>
       <a href="https://codepen.io/jpidelatorre/pen/xbKNGN"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png"></a>
     </p>
@@ -22,7 +22,7 @@ Forked from [DonSinDRom](http://codepen.io/DonSinDRom/)&#39;s Pen [Charging anim
     </p>
     
    
-[undefined](https://codepen.io/jpidelatorre/pen/WEOJMp)
+[[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp)
  <p>
       <a href="https://codepen.io/jpidelatorre/pen/WEOJMp"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/WEOJMp/image/large.png"></a>
     </p>
@@ -36,7 +36,7 @@ Forked from [DonSinDRom](http://codepen.io/DonSinDRom/)&#39;s Pen [Charging anim
     </p>
     
    
-[undefined](https://codepen.io/jpidelatorre/pen/prEgQj)
+[CSS  Variables: Follow Mouse Position](https://codepen.io/jpidelatorre/pen/prEgQj)
  <p>
       <a href="https://codepen.io/jpidelatorre/pen/prEgQj"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/prEgQj/image/large.png"></a>
     </p>
@@ -50,7 +50,7 @@ Forked from [DonSinDRom](http://codepen.io/DonSinDRom/)&#39;s Pen [Charging anim
     </p>
     
    
-[undefined](https://codepen.io/jpidelatorre/pen/oNYYaYR)
+[[Pure CSS] [CSS Battle] Clip-path example](https://codepen.io/jpidelatorre/pen/oNYYaYR)
  <p>
       <a href="https://codepen.io/jpidelatorre/pen/oNYYaYR"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/oNYYaYR/image/large.png"></a>
     </p>
@@ -64,7 +64,7 @@ Forked from [DonSinDRom](http://codepen.io/DonSinDRom/)&#39;s Pen [Charging anim
     </p>
     
    
-[undefined](https://codepen.io/jpidelatorre/pen/wvdKaQM)
+[Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM)
  <p>
       <a href="https://codepen.io/jpidelatorre/pen/wvdKaQM"><img width="1024" height="600" src="https://codepen.io/jpidelatorre/pen/wvdKaQM/image/large.png"></a>
     </p>
