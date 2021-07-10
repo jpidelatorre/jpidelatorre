@@ -6,15 +6,15 @@
 ### Selected Pens at [Codepen](https://codepen.io/jpidelatorre)
 
 <!-- CODEPEN:START -->[[Pure CSS] [One element] Battery charging animation](https://codepen.io/jpidelatorre/pen/xbKNGN)
- $image 
+ ![](https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png) 
 [[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp)
- $image 
+ ![](https://codepen.io/jpidelatorre/pen/WEOJMp/image/large.png) 
 [CSS  Variables: Follow Mouse Position](https://codepen.io/jpidelatorre/pen/prEgQj)
- $image 
+ ![](https://codepen.io/jpidelatorre/pen/prEgQj/image/large.png) 
 [[Pure CSS] [CSS Battle] Clip-path example](https://codepen.io/jpidelatorre/pen/oNYYaYR)
- $image 
+ ![](https://codepen.io/jpidelatorre/pen/oNYYaYR/image/large.png) 
 [Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM)
- $image 
+ ![](https://codepen.io/jpidelatorre/pen/wvdKaQM/image/large.png) 
 <!-- CODEPEN:END -->
 
 ### Answers on StackOverflow
