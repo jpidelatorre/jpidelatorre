@@ -16,10 +16,10 @@ jobs:
           date_format: "mmm d, yyyy"
           commit_message: "Update Codepen list"
           item_exec: |
-            post.description = post.description.match(/src="([^"]+)"/)[1] || '';
+            // images don't work, needs to push the images to reference them
+            // post.description = post.description.match(/src="([^"]+)"/)[1] || '';
           template: |
-            $newline - [$title]($url)
-            $newline   ![]($description) $newline $newline
+            $newline - [$title]($url) <!-- ![]($description) --> $newline
           feed_list: "https://codepen.io/collection/OLyaME/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
