@@ -8,7 +8,7 @@
 <!-- CODEPEN:START -->
  - [[Pure CSS] Battery charging animation [One element]](https://codepen.io/jpidelatorre/pen/xbKNGN)
 
-   ![](https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png) 
+   [[ https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png | width = 300px ]]
  
 
  - [[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp)
