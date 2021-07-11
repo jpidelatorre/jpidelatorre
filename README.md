@@ -8,7 +8,7 @@
 <!-- CODEPEN:START -->
  - [[Pure CSS] Battery charging animation [One element]](https://codepen.io/jpidelatorre/pen/xbKNGN)
 
-   [[ https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png | width = 300px ]]
+   <img src="https://codepen.io/jpidelatorre/pen/xbKNGN/image/large.png">
  
 
  - [[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp)
@@ -47,4 +47,9 @@ TODO
   - RSS with extra properties
   - Formatted technologies icons
   - ASCII banners
+  - Github activity (https://github.com/marketplace/actions/profile-readme-development-stats)
+- Commit images that will be included in the README
+- Generate word cloud
+- Generate gists to pin in profile (https://github.com/matchai/awesome-pinned-gists)
+- Generate SVG to improve the appearance
  -->
