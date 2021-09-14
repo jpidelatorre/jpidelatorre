@@ -17,7 +17,7 @@
  - [Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM) 
 <!-- CODEPEN:END -->
 
-### Answers on StackOverflow
+### Answers on [StackOverflow](https://stackoverflow.com/users/1899195/jp-de-la-torre)
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by JP de la Torre for Is there any Unicode equivalent for a grid of icons symbol?](https://stackoverflow.com/questions/22289123/is-there-any-unicode-equivalent-for-a-grid-of-icons-symbol/62055578#62055578)
