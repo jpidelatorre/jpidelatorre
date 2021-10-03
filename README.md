@@ -6,6 +6,8 @@
 ### Selected Pens at [Codepen](https://codepen.io/jpidelatorre)
 
 <!-- CODEPEN:START -->
+ - [Pure CSS Radial Menu](https://codepen.io/jpidelatorre/pen/VwWNQOr) 
+
  - [[Pure CSS] Battery charging animation [One element]](https://codepen.io/jpidelatorre/pen/xbKNGN) 
 
  - [[Pure CSS] Pac-man Animation [No HTML]](https://codepen.io/jpidelatorre/pen/WEOJMp) 
@@ -13,8 +15,6 @@
  - [CSS  Variables: Follow Mouse Position](https://codepen.io/jpidelatorre/pen/prEgQj) 
 
  - [[Pure CSS] [CSS Battle] Clip-path example](https://codepen.io/jpidelatorre/pen/oNYYaYR) 
-
- - [Minimal Pure CSS Typewriter effect](https://codepen.io/jpidelatorre/pen/wvdKaQM) 
 <!-- CODEPEN:END -->
 
 ### Answers on [StackOverflow](https://stackoverflow.com/users/1899195/jp-de-la-torre)
